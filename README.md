@@ -1,6 +1,4 @@
 # Configuring-On-premises-Active-Directory-with-Virtual-Box
-On-Premises Active Directory Lab: Managing the <your-domain>.local Domain
-# Configuring-On-premises-Active-Directory-with-Virtual-Box
 Tutorial: Configure an on‑premises Active Directory domain in VirtualBox (Win Server 2022 &amp; Win 10)
 ## 🛠️ Environments & Technologies Used
 
