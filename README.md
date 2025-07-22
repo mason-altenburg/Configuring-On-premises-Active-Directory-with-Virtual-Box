@@ -1,5 +1,6 @@
-<img width="469" height="220" alt="image" src="https://github.com/user-attachments/assets/d55b4072-3825-4a52-869c-4d804345f855" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7d36a5a6-c48d-42d5-930c-f43b220375db" />
+<img width="469" height="220" alt="image" src="https://github.com/user-attachments/assets/d55b4072-3825-4a52-869c-4d804345f855" /> <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5f77886d-9023-4554-b41c-247b80b62d54" />
+
+
 
 # Configuring-On-premises-Active-Directory-with-Virtual-Box
 Tutorial: Configure an on‑premises Active Directory domain in VirtualBox (Win Server 2022 &amp; Win 10)
