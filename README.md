@@ -64,4 +64,12 @@ Tutorial: Configure an on‑premises Active Directory domain in VirtualBox (Win
 3. You should see an error: **“Your domain isn’t available”**.  
 <img width="1918" height="1078" alt="SS7 - Attempted domain login when domain server is unavailable" src="https://github.com/user-attachments/assets/3c7be7d6-abad-4685-aab4-87e83b6e4b25" />
 
+## 🎉 Congratulations!
 
+You’ve successfully:
+
+- Created Organizational Units within your AD domain  
+- Added both local and domain user accounts  
+- Organized your domain user into the proper OU  
+- Logged in as local and domain users  
+- Observed the behavior when the DC is offline 
